@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-image:linear-gradient(rgb(232, 163, 24),rgb(223, 223, 14),rgba(245, 240, 99, 0.799)) ;
+}
+img {
+    width: 500px; 
+    height: auto; 
+}
+
+
+
+  
+
+  
